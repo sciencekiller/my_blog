@@ -4,7 +4,7 @@ export const getGlobalData = () => {
     : 'Sciencekill\'s blog';
   const blogTitle = process.env.BLOG_TITLE
     ? decodeURI(process.env.BLOG_TITLE)
-    : 'Welcome To Sciencekill\'s blog\n欢迎来到Sciencekill的博客';
+    : '欢迎来到Sciencekill的博客';
   const footerText = process.env.BLOG_FOOTER_TEXT
     ? decodeURI(process.env.BLOG_FOOTER_TEXT)
     : 'Sciencekill All rights reserved.';
