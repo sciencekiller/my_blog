@@ -4,31 +4,43 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="87bb7d9f-f7eb-4263-8988-21a147a74604" name="变更" comment="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;posts/PT0001.mdx">
+    <list default="true" id="87bb7d9f-f7eb-4263-8988-21a147a74604" name="变更" comment="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;src/.vuepress/config.ts&#10;#&#9;src/README.md">
+      <change afterPath="$PROJECT_DIR$/src/posts/Course/Change_boot_icon.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/posts/Download/DiskGenius.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/posts/Download/HackBGRT.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/posts/Download/More_Tools.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/posts/Download/More_Tools_2.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.vuepress/config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/config.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.vuepress/navbar/zh.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/navbar/zh.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.vuepress/public/assets/icon/apple-icon-152.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.vuepress/public/assets/icon/chrome-192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.vuepress/public/assets/icon/chrome-512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.vuepress/public/assets/icon/chrome-mask-192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.vuepress/public/assets/icon/chrome-mask-512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.vuepress/public/assets/icon/guide-maskable.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.vuepress/public/assets/icon/ms-icon-144.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.vuepress/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/public/favicon.ico" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/.vuepress/public/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/public/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.vuepress/public/logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/public/logo.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.vuepress/sidebar/zh.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/sidebar/zh.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/.vuepress/theme.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/theme.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/demo/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/demo/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/demo/disable.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/demo/disable.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/demo/encrypt.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/demo/encrypt.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/demo/markdown.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/demo/markdown.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/demo/page.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/demo/page.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/intro.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/intro.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/posts/apple/1.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/posts/apple/1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/posts/apple/2.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/posts/apple/2.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/posts/apple/3.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/posts/apple/3.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/posts/apple/4.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/posts/apple/4.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/posts/banana/1.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/posts/banana/1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/posts/banana/2.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/posts/banana/2.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/posts/banana/3.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/posts/banana/3.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/posts/banana/4.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/posts/banana/4.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/posts/cherry.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/posts/cherry.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/posts/dragonfruit.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/posts/dragonfruit.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/posts/strawberry.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/posts/strawberry.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/posts/tomato.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/posts/tomato.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/slides.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/slides.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/demo/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/demo/disable.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/demo/encrypt.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/demo/markdown.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/demo/page.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/posts/apple/1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/posts/apple/2.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/posts/apple/3.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/posts/apple/4.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/posts/banana/1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/posts/banana/2.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/posts/banana/3.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/posts/banana/4.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/posts/cherry.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/posts/dragonfruit.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/posts/strawberry.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/posts/tomato.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +55,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2NDuDjMz9e4X0fLR9EZav8sZDiI" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -72,7 +87,7 @@
       <updated>1679210855742</updated>
       <workItem from="1679210856956" duration="3026000" />
       <workItem from="1679216562786" duration="2589000" />
-      <workItem from="1679221677022" duration="1527000" />
+      <workItem from="1679221677022" duration="3483000" />
     </task>
     <task id="LOCAL-00001" summary="blog">
       <created>1679211262913</created>
@@ -109,7 +124,21 @@
       <option name="project" value="LOCAL" />
       <updated>1679218479591</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;posts/PT0001.mdx">
+      <created>1679224185514</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1679224185515</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;src/.vuepress/config.ts&#10;#&#9;src/README.md">
+      <created>1679224206086</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1679224206086</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -129,6 +158,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="blog" />
     <MESSAGE value="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;posts/PT0001.mdx" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;posts/PT0001.mdx" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;src/.vuepress/config.ts&#10;#&#9;src/README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;src/.vuepress/config.ts&#10;#&#9;src/README.md" />
   </component>
 </project>
