@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="87bb7d9f-f7eb-4263-8988-21a147a74604" name="变更" comment="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <change beforePath="$PROJECT_DIR$/src/.vuepress/navbar/zh.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/navbar/zh.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.vuepress/sidebar/zh.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/sidebar/zh.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.vuepress/theme.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/theme.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/posts/Course/Change_boot_icon.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/posts/Course/Change_boot_icon.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +56,7 @@
       <workItem from="1679216562786" duration="2589000" />
       <workItem from="1679221677022" duration="3727000" />
       <workItem from="1679226474441" duration="1446000" />
-      <workItem from="1679230550557" duration="114000" />
+      <workItem from="1679230550557" duration="690000" />
     </task>
     <task id="LOCAL-00001" summary="blog">
       <created>1679211262913</created>
@@ -150,7 +149,21 @@
       <option name="project" value="LOCAL" />
       <updated>1679228037553</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <created>1679230689811</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1679230689811</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <created>1679231078482</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1679231078482</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
