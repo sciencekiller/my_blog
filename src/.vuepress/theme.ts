@@ -59,7 +59,7 @@ export default hopeTheme({
     /**
      * Chinese locale config
      */
-    "/zh/": {
+    "/": {
       // navbar
       navbar: zhNavbar,
 
@@ -72,7 +72,7 @@ export default hopeTheme({
 
       blog: {
         description: "Sciencekill",
-        intro: "/zh/intro.html",
+        intro: "/intro.html",
       },
 
       // page meta
