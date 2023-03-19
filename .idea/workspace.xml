@@ -5,14 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="87bb7d9f-f7eb-4263-8988-21a147a74604" name="变更" comment="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;posts/PT0001.mdx">
-      <change beforePath="$PROJECT_DIR$/.github/workflows/deploy-docs.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/deploy-docs.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/my_blog.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.vuepress/config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/config.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zh/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zh/demo/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zh/demo/disable.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zh/demo/encrypt.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zh/demo/markdown.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zh/demo/page.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zh/intro.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zh/posts/apple/1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zh/posts/apple/2.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zh/posts/apple/3.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zh/posts/apple/4.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zh/posts/banana/1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zh/posts/banana/2.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zh/posts/banana/3.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zh/posts/banana/4.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zh/posts/cherry.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zh/posts/dragonfruit.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zh/posts/strawberry.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zh/posts/tomato.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zh/slides.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +57,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "yarn",
+    "ts.external.directory.path": "D:\\WebStorm 2022.3\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -54,6 +70,7 @@
       <option name="presentableId" value="Default" />
       <updated>1679210855742</updated>
       <workItem from="1679210856956" duration="3026000" />
+      <workItem from="1679216562786" duration="1452000" />
     </task>
     <task id="LOCAL-00001" summary="blog">
       <created>1679211262913</created>
@@ -76,7 +93,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679211329226</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;posts/PT0001.mdx">
+      <created>1679216622621</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1679216622621</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

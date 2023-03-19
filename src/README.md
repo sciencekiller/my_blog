@@ -2,21 +2,21 @@
 home: true
 layout: BlogHome
 icon: home
-title: Blog Home
+title: Sciencekill的博客
 heroImage: /logo.svg
-heroText: The name of your blog
-tagline: You can put your slogan here
+heroText: Sciencekill的博客
+tagline: Insearch of Incredible
 heroFullScreen: true
 projects:
   - icon: project
-    name: project name
-    desc: project detailed description
-    link: https://your.project.link
+    name: More Tools 2
+    desc: 新一代More Tools
+    link: https://github.com/sciencekiller/More-Tools-2
 
   - icon: link
-    name: link name
-    desc: link detailed description
-    link: https://link.address
+    name: 官网~
+    desc: Sciencekill的官网
+    link: https://sciencekill.netlify.app
 
   - icon: book
     name: book name
@@ -38,11 +38,13 @@ projects:
     desc: Detailed description of this custom item
     link: https://link.to.your.friend
 
-footer: customize your footer text
+footer: &copy; 2022 [Sciencekill](https://sciencekill.netlify.app)
 ---
 
-This is a blog home page demo.
+欢迎来到Sciencekill的博客
 
-To use this layout, you should set both `layout: BlogHome` and `home: true` in the page front matter.
+本人官网:[https://sciencekill.netlify.app](https://sciencekill.netlify.app)
 
-For related configuration docs, please see [blog homepage](https://theme-hope.vuejs.press/guide/blog/home/).
+邮箱: sciencekill@outlook.com
+
+
