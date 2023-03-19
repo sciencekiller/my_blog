@@ -2,51 +2,51 @@ import { navbar } from "vuepress-theme-hope";
 
 export const zhNavbar = navbar([
   "/zh/",
-  { text: "演示", icon: "discover", link: "/zh/demo/" },
   {
     text: "博文",
     icon: "edit",
     prefix: "/zh/posts/",
     children: [
       {
-        text: "苹果",
+        text: "教程:",
         icon: "edit",
-        prefix: "apple/",
+        prefix: "Course/",
         children: [
-          { text: "苹果1", icon: "edit", link: "1" },
-          { text: "苹果2", icon: "edit", link: "2" },
-          "3",
-          "4",
+          { text: "更改开机图标", icon: "edit", link: "Change_boot_icon" },
         ],
       },
       {
-        text: "香蕉",
+        text: "下载:",
         icon: "edit",
-        prefix: "banana/",
+        prefix: "Download/",
         children: [
           {
-            text: "香蕉 1",
+            text: "More_Tools_2",
             icon: "edit",
-            link: "1",
+            link: "More_Tools_2",
           },
           {
-            text: "香蕉 2",
+            text: "More_Tools",
             icon: "edit",
-            link: "2",
+            link: "More_Tools",
           },
-          "3",
-          "4",
+          {
+            text: "HackBGRT",
+            icon: "edit",
+            link: "HackBGRT"
+          },
+          {
+            text: "DiskGenius",
+            icon: "edit",
+            link: "DiskGenius"
+          },
         ],
       },
-      { text: "樱桃", icon: "edit", link: "cherry" },
-      { text: "火龙果", icon: "edit", link: "dragonfruit" },
-      "tomato",
-      "strawberry",
     ],
   },
-  {
-    text: "V2 文档",
-    icon: "note",
-    link: "https://theme-hope.vuejs.press/zh/",
-  },
+  // {
+  //   text: "V2 文档",
+  //   icon: "note",
+  //   link: "https://theme-hope.vuejs.press/zh/",
+  // },
 ]);
