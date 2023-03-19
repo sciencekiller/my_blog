@@ -4,21 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="87bb7d9f-f7eb-4263-8988-21a147a74604" name="变更" comment="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.vuepress/navbar/en.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.vuepress/navbar/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/navbar/index.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.vuepress/public/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/public/logo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.vuepress/public/logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/public/logo.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.vuepress/sidebar/en.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.vuepress/sidebar/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/sidebar/index.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.vuepress/theme.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/theme.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/posts/Course/Change_boot_icon.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/posts/Course/Change_boot_icon.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/posts/Download/DiskGenius.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/posts/Download/DiskGenius.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/posts/Download/HackBGRT.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/posts/Download/HackBGRT.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/posts/Download/More_Tools.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/posts/Download/More_Tools.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/posts/Download/More_Tools_2.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/posts/Download/More_Tools_2.md" afterDir="false" />
-    </list>
+    <list default="true" id="87bb7d9f-f7eb-4263-8988-21a147a74604" name="变更" comment="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,7 +51,7 @@
       <workItem from="1679210856956" duration="3026000" />
       <workItem from="1679216562786" duration="2589000" />
       <workItem from="1679221677022" duration="3727000" />
-      <workItem from="1679226474441" duration="956000" />
+      <workItem from="1679226474441" duration="1446000" />
     </task>
     <task id="LOCAL-00001" summary="blog">
       <created>1679211262913</created>
@@ -137,7 +123,28 @@
       <option name="project" value="LOCAL" />
       <updated>1679226336257</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <created>1679228015854</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1679228015854</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <created>1679228023167</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1679228023167</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <created>1679228037553</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1679228037553</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
