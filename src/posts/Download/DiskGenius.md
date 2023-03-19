@@ -1,10 +1,10 @@
 ---
 icon: edit
-date: 2023-3-19
+date: 2023-03-19
 category:
-- 下载
-  tag:
-- 工具
+  - 下载
+tag:
+  - 工具
 ---
 # DiskGenius下载
 这东西官网下的挺快，所以直接贴官网地址

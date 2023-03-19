@@ -1,10 +1,10 @@
 ---
 icon: edit
-date: 2023-3-19
+date: 2023-03-19
 category:
-- 教程
-  tag:
-- 美化
+  - 教程
+tag:
+  - 美化
 ---
 # 修改开机图片教程
 每次开机总要看着极具微软审美的圈在那转呀转，
@@ -15,9 +15,9 @@ category:
 
 所以该怎么修改开机图片?
 ## 准备
-> 1、[HackBGRT](https://sksblog.netlify.app/posts/HackBGRT.html)(修改开机图片用)
+> 1、[HackBGRT](https://sksblog.netlify.app/posts/HackBGRT)(修改开机图片用)
 >
-> 2、[Diskgenius](https://sksblog.netlify.app/posts/DiskGenius.html)(修改磁盘用)
+> 2、[Diskgenius](https://sksblog.netlify.app/posts/DiskGenius)(修改磁盘用)
 >
 > 3、一张符合你审美的图片
 >

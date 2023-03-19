@@ -1,10 +1,10 @@
 ---
 icon: edit
-date: 2023-3-19
+date: 2023-03-19
 category:
-- 下载
-  tag:
-- 工具
+  - 下载
+tag:
+  - 工具
 ---
 # HackBGRT下载
 因为这玩意也不大，所以直接贴GitHub的下载地址
