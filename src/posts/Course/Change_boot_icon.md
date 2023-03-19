@@ -15,9 +15,9 @@ tag:
 
 所以该怎么修改开机图片?
 ## 准备
-> 1、[HackBGRT](https://sksblog.netlify.app/posts/HackBGRT)(修改开机图片用)
+> 1、[HackBGRT](https://sksblog.netlify.app/posts/HackBGRT.html)(修改开机图片用)
 >
-> 2、[Diskgenius](https://sksblog.netlify.app/posts/DiskGenius)(修改磁盘用)
+> 2、[Diskgenius](https://sksblog.netlify.app/posts/DiskGenius.html)(修改磁盘用)
 >
 > 3、一张符合你审美的图片
 >
