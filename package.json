@@ -12,7 +12,6 @@
   },
   "devDependencies": {
     "@vuepress/client": "2.0.0-beta.61",
-    "vue": "^3.2.47",
     "vuepress": "2.0.0-beta.61",
     "vuepress-theme-hope": "2.0.0-beta.193"
   },
@@ -386,8 +385,8 @@
     "string.prototype.trim": "^1.2.7",
     "string.prototype.trimend": "^1.0.6",
     "string.prototype.trimstart": "^1.0.6",
-    "stringify-object": "^3.3.0",
     "string_decoder": "^1.3.0",
+    "stringify-object": "^3.3.0",
     "strip-ansi": "^7.0.1",
     "strip-bom-string": "^1.0.0",
     "strip-comments": "^2.0.1",
@@ -427,7 +426,7 @@
     "vue-router": "^4.1.6",
     "vuepress-plugin-auto-catalog": "^2.0.0-beta.193",
     "vuepress-plugin-blog2": "^2.0.0-beta.193",
-    "vuepress-plugin-comment2": "^2.0.0-beta.193",
+    "vuepress-plugin-comment2": "^2.0.0-beta.197",
     "vuepress-plugin-components": "^2.0.0-beta.193",
     "vuepress-plugin-copy-code2": "^2.0.0-beta.193",
     "vuepress-plugin-copyright2": "^2.0.0-beta.193",
@@ -480,5 +479,6 @@
     "zrender": "^5.4.1"
   },
   "keywords": [],
-  "author": ""
+  "author": "AdvancedCube <sciencekill@outlook.com>",
+  "repository": "https://github.com/sciencekiller/my_blog.git"
 }
