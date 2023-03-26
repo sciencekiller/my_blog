@@ -15,7 +15,7 @@ export default hopeTheme({
 
   logo: "/logo.svg",
 
-  repo: "https://github.com/sciencekiller/",
+  repo: "https://github.com/sciencekiller/my_blog",
 
   docsDir: "docs",
 

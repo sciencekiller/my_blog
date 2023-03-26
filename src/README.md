@@ -42,3 +42,4 @@ footer: Sciencekill
 ---
 
 邮箱: sciencekill@outlook.com 官网: sciencekill.netlify.app QQ: 3205501664
+![](https://www.netlify.com/img/global/badges/netlify-dark.svg)

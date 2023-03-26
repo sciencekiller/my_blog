@@ -6,8 +6,12 @@
   <component name="ChangeListManager">
     <list default="true" id="87bb7d9f-f7eb-4263-8988-21a147a74604" name="变更" comment="blog">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.vuepress/config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/config.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.vuepress/navbar/zh.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/navbar/zh.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/.vuepress/theme.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/theme.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/intro.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/intro.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/posts/Download/More_Tools.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/posts/Download/More_Tools.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/slides.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +58,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/GitHub repository/my_blog&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/Github Repository/my_blog&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -82,6 +86,9 @@
       <workItem from="1679487085822" duration="2086000" />
       <workItem from="1679489357724" duration="916000" />
       <workItem from="1679572821993" duration="606000" />
+      <workItem from="1679819351098" duration="11000" />
+      <workItem from="1679819390504" duration="240000" />
+      <workItem from="1679819788445" duration="1262000" />
     </task>
     <task id="LOCAL-00001" summary="blog">
       <created>1679211262913</created>

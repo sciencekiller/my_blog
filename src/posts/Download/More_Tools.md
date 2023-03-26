@@ -6,10 +6,11 @@ category:
 tag:
   - 工具
 ---
-# 重要事项
-More Tools 2.0正在开发!可以提前尝试[Beta版本](https://sksblog.netlify.app/posts/More_Tools_2.html)
+# More Tools下载
+## 重要事项
+More Tools 2.0正在开发!可以提前尝试[Beta版本](https://sksblog.netlify.app/posts/Download/More_Tools_2.html)
 
-# 如果你想下载More-Tools，请选择下载途径：
+## 如果你想下载More-Tools，请选择下载途径：
 
 [Github](https://github.com/sciencekiller/More-Tools/archive/refs/heads/main.zip)
 
