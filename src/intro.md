@@ -21,21 +21,21 @@ Sciencekill(程添宇)，目前是初中生，就读于武汉市青山区任家�
 本博客使用node.js部署
 
 ### [Vue.js](http://vuejs.org)
-<img src="https://v2.cn.vuejs.org/images/logo.svg" width="15%" height="15%">
+![](https://v2.cn.vuejs.org/images/logo.svg)
 Vuepress基于Vue.js
 
 ### [Vuepress](https://v2.vuepress.vuejs.org/zh/)
-<img src="https://vuepress.vuejs.org/hero.png" width="20%" height="20%">
+![](https://vuepress.vuejs.org/hero.png)
 
 本博客使用Vuepress作为静态网站生成器
 
 ### [Vuepress theme hope](https://theme-hope.vuejs.press/)
-<img src="https://theme-hope.vuejs.press/logo.svg" width="20%" height="20%">
+![](https://theme-hope.vuejs.press/logo.svg)
 
 感谢Mr.hope的Vuepress主题+插件
 
 ### [Github](https://github.com/)
-<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="20%" height="20%">
+![](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 
 本博客资源储存在Github
 
