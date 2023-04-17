@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="87bb7d9f-f7eb-4263-8988-21a147a74604" name="变更" comment="blog">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/.vuepress/theme.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/theme.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -88,7 +87,7 @@
       <workItem from="1679821383036" duration="82000" />
       <workItem from="1681632876926" duration="291000" />
       <workItem from="1681633314992" duration="5000" />
-      <workItem from="1681733880906" duration="26000" />
+      <workItem from="1681733880906" duration="435000" />
     </task>
     <task id="LOCAL-00001" summary="blog">
       <created>1679211262913</created>
@@ -223,7 +222,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679821187147</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="blog">
+      <created>1681733913696</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1681733913696</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

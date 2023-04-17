@@ -17,7 +17,7 @@ export default hopeTheme({
 
   repo: "https://github.com/sciencekiller/my_blog",
 
-  docsDir: "src/docs",
+  docsDir: "src",
 
   blog: {
     medias: {
