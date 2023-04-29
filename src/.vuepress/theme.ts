@@ -8,7 +8,7 @@ export default hopeTheme({
 
   author: {
     name: "Sciencekill",
-    url: "https://sciencekill.netlify.app",
+    url: "https://sciencekill.top",
   },
 
   iconAssets: "iconfont",

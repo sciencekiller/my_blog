@@ -5,7 +5,7 @@ export const zhNavbar = navbar([
   {
     text: "文章",
     icon: "edit",
-    prefix: "/zh/posts/",
+    prefix: "posts/",
     children: [
       {
         text: "教程:",
@@ -14,6 +14,14 @@ export const zhNavbar = navbar([
         children: [
           { text: "更改开机图标", icon: "edit", link: "Change_boot_icon" },
         ],
+      },
+      {
+        text:"校内总结",
+        icon:"edit",
+        prefix:"School/",
+        children:[
+          {text:"数学七年级上册",icon:"edit",link:"Math7p"}
+        ]
       },
       {
         text: "下载:",
