@@ -140,6 +140,7 @@ export default hopeTheme({
       tabs: true,
       vPre: true,
       vuePlayground: true,
+      container: true,
     },
   },
 });
