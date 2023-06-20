@@ -1,8 +1,15 @@
 import { defineUserConfig } from "vuepress";
 import theme from "./theme.js";
-//import { hopeTheme } from "vuepress-theme-hope";
-
+import { searchProPlugin } from "vuepress-plugin-search-pro";
+// @ts-ignore
+// @ts-ignore
 export default defineUserConfig({
+  plugins: [
+    searchProPlugin({
+      // 索引全部内容
+      indexContent: true,
+    }),
+  ],
   base: "/",
 
   locales: {

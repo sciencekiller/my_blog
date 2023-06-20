@@ -1,8 +1,10 @@
 import { hopeTheme } from "vuepress-theme-hope";
 import { zhNavbar } from "./navbar";
 import { zhSidebar } from "./sidebar";
+import { searchProPlugin } from "vuepress-plugin-search-pro";
 
 export default hopeTheme({
+  contributors: false,
 
   hostname: "https://sciencekill.netlify.app",
 
@@ -90,6 +92,7 @@ export default hopeTheme({
   },
 
   plugins:{
+
     comment: {
       provider: "Giscus",
       comment: true,
@@ -142,5 +145,5 @@ export default hopeTheme({
       vuePlayground: true,
       container: true,
     },
-  },
+  }
 });
