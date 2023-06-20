@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "Sciencekill's blog",
   "license": "MIT",
-  "type": "module",
   "scripts": {
     "docs:build": "vuepress build src&&node --max_old_space_size=10240",
     "docs:clean-dev": "vuepress dev src --clean-cache",
