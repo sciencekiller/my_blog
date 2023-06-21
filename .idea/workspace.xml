@@ -5,37 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="30c2a375-e9b2-4f81-98fb-d2a257653194" name="更改" comment="">
-      <change beforePath="$PROJECT_DIR$/.github/workflows/deploy-docs.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/my_blog.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/my_blog.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/watcherTasks.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.vuepress/config.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.vuepress/navbar/index.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.vuepress/navbar/zh.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.vuepress/public/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.vuepress/public/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.vuepress/public/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.vuepress/sidebar/index.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.vuepress/sidebar/zh.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.vuepress/styles/config.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.vuepress/styles/index.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.vuepress/styles/palette.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.vuepress/theme.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/intro.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/posts/Algorithm/Shortest_path_algorithm.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/posts/Course/Change_boot_icon.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/posts/Download/DiskGenius.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/posts/Download/HackBGRT.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/posts/Download/More_Tools.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/posts/Download/Sciencekills_toolkit.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/posts/School/Math7m.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/posts/Algorithm/Shortest_path_algorithm.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/posts/Algorithm/Shortest_path_algorithm.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,21 +24,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "yarn",
-    "ts.external.directory.path": "D:\\JetBrains\\WebStorm 2023.1.2\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;yarn&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;D:\\JetBrains\\WebStorm 2023.1.2\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
@@ -77,6 +48,7 @@
       <option name="presentableId" value="Default" />
       <updated>1687304581422</updated>
       <workItem from="1687304585251" duration="1069000" />
+      <workItem from="1687306303636" duration="1704000" />
     </task>
     <servers />
   </component>
