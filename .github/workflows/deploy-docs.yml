@@ -23,7 +23,7 @@ jobs:
       - name: 设置 Node.js
         uses: actions/setup-node@v3
         with:
-          node-version: 18
+          node-version: 20
           cache: yarn
 
       - name: 安装依赖
@@ -31,7 +31,7 @@ jobs:
 
       - name: 构建文档
         env:
-          NODE_OPTIONS: --max_old_space_size=8192
+          NODE_OPTIONS: --max_old_space_size=10240
         run: |-
           yarn run docs:build
           > src/.vuepress/dist/.nojekyll
