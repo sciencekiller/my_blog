@@ -1,15 +1,14 @@
 import { sidebar } from "vuepress-theme-hope";
 
-export const zhSidebar = sidebar({
+export default sidebar({
   "/": [
     "",
     {
       text: "文章",
-      icon: "note",
+      icon: "book",
       prefix: "posts/",
       children: "structure",
     },
     "intro",
-    "slides",
   ],
 });
