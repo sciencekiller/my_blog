@@ -8,7 +8,7 @@ tag:
 ---
 # More Tools下载
 ::: warning Sciencekill's toolkit
-Sciencekill's toolkit正在开发!可以提前尝试[Beta版本](https://sksblog.netlify.app/posts/Download/Sciencekills_toolkit.html)
+Sciencekill's toolkit正在开发!可以提前尝试[Beta版本](https://blog.sciencekill.top/posts/Download/Sciencekills_toolkit.html)
 :::
 ## 如果你想下载More-Tools，请选择下载途径：
 
