@@ -20,7 +20,8 @@ export default navbar([
         icon: "pen-to-square",
         prefix: "Algorithm/",
         children: [
-          {text:"更改开机图标",icon:"pen-to-square",link:"Shortest_path_algorithm"},
+          {text:"最短路算法",icon:"pen-to-square",link:"Shortest_path_algorithm"},
+          {text:"并查集",icon:"pen-to-square",link:"Union_find_algorithm"},
         ],
       },
       {
