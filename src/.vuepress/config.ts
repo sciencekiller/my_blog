@@ -6,8 +6,6 @@ export default defineUserConfig({
 
   lang: "zh-CN",
   title: "Sciencekill's Blog",
-  description: "Create impossible",
-
   theme,
 
   // Enable it with pwa

@@ -1,4 +1,5 @@
 import { hopeTheme } from "vuepress-theme-hope";
+import mathjax from "vuepress-plugin-mathjax";
 import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
 
@@ -81,8 +82,8 @@ export default hopeTheme({
   },
 
   plugins: {
-    blog: true,
 
+    blog: true,
     comment: {
       // You should generate and use your own comment service
       provider: "Giscus",
@@ -132,6 +133,7 @@ export default hopeTheme({
       tabs: true,
       vPre: true,
       vuePlayground: true,
+      mathjax: true,
     },
 
     // uncomment these if you want a PWA

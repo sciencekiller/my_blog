@@ -5,10 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="30c2a375-e9b2-4f81-98fb-d2a257653194" name="更改" comment="blog">
-      <change afterPath="$PROJECT_DIR$/src/posts/Algorithm/Dynamic_programming/0-1_bag.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.vuepress/config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/config.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.vuepress/theme.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/.vuepress/theme.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/posts/Algorithm/Shortest_path_algorithm.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/posts/Algorithm/Shortest_path_algorithm.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/posts/Algorithm/Union_Find_Algorithm.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/posts/Algorithm/Union_Find_Algorithm.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +66,7 @@
       <workItem from="1688204146211" duration="2643000" />
       <workItem from="1688364869717" duration="6947000" />
       <workItem from="1688447758090" duration="115000" />
-      <workItem from="1688709482629" duration="3693000" />
+      <workItem from="1688709482629" duration="5840000" />
     </task>
     <task id="LOCAL-00001" summary="blog">
       <created>1687310331425</created>
@@ -129,7 +131,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688376071798</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="blog">
+      <created>1688717199169</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1688717199169</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
