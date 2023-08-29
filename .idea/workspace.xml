@@ -6,9 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="30c2a375-e9b2-4f81-98fb-d2a257653194" name="更改" comment="blog">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/posts/Algorithm/Dynamic_programming/0-1_bag.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/posts/Algorithm/Dynamic_programming/Knapsack_Problem.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/posts/Algorithm/Shortest_path_algorithm.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/posts/Algorithm/Shortest_path_algorithm.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/posts/Algorithm/Union_Find_Algorithm.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/posts/Algorithm/Union_Find_Algorithm.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +18,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2RUVK5Ito83oo3RceZKZudLoRMk" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -35,7 +35,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/Github Repository/NovelAIImages&quot;,
+    &quot;last_opened_file_path&quot;: &quot;M:/my_blog&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -66,7 +66,9 @@
       <workItem from="1688447758090" duration="115000" />
       <workItem from="1688709482629" duration="6188000" />
       <workItem from="1688725825417" duration="1494000" />
-      <workItem from="1688793665405" duration="2925000" />
+      <workItem from="1688793665405" duration="3412000" />
+      <workItem from="1693307130550" duration="57000" />
+      <workItem from="1693307261395" duration="30000" />
     </task>
     <task id="LOCAL-00001" summary="blog">
       <created>1687310331425</created>
@@ -145,7 +147,21 @@
       <option name="project" value="LOCAL" />
       <updated>1688721616525</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="blog">
+      <created>1688806581042</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1688806581042</updated>
+    </task>
+    <task id="LOCAL-00013" summary="blog">
+      <created>1688806612024</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1688806612024</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
