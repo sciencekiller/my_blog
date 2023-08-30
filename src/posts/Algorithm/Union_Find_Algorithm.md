@@ -2,7 +2,7 @@
 icon: edit
 date: 2023-07-03
 category:
-  - 算法
+  算法
 tag:
   - 并查集
 ---
