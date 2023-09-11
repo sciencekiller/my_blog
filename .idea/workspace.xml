@@ -5,16 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="30c2a375-e9b2-4f81-98fb-d2a257653194" name="更改" comment="blog">
-      <change afterPath="$PROJECT_DIR$/src/posts/Course/Free_frp.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/posts/School/Congruent_triangle_model_induction.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/posts/Algorithm/Shortest_path_algorithm.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/posts/Algorithm/Shortest_path_algorithm.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/posts/Algorithm/Union_Find_Algorithm.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/posts/Algorithm/Union_Find_Algorithm.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/posts/Course/Change_boot_icon.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/posts/Course/Change_boot_icon.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/posts/Download/DiskGenius.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/posts/Download/DiskGenius.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/posts/Download/HackBGRT.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/posts/Download/HackBGRT.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/posts/Download/More_Tools.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/posts/Download/More_Tools.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/posts/Download/Sciencekills_toolkit.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/posts/Download/Sciencekills_toolkit.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/posts/School/Math7m.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +36,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;M:/my_blog&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/my_blog&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -79,7 +71,9 @@
       <workItem from="1693307130550" duration="57000" />
       <workItem from="1693307261395" duration="30000" />
       <workItem from="1693307299597" duration="837000" />
-      <workItem from="1693378964035" duration="4595000" />
+      <workItem from="1693378964035" duration="4624000" />
+      <workItem from="1694003889394" duration="2594000" />
+      <workItem from="1694336723674" duration="3000" />
     </task>
     <task id="LOCAL-00001" summary="blog">
       <created>1687310331425</created>
@@ -196,7 +190,15 @@
       <option name="project" value="LOCAL" />
       <updated>1693307949863</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="blog">
+      <option name="closed" value="true" />
+      <created>1693383701166</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1693383701166</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
