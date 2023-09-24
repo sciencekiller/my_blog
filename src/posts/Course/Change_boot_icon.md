@@ -28,7 +28,7 @@ tag:
 首先，请确认你的图片是bmp格式，并且文件不要太大，最好为50KB以内
 
 其次，你的系统必须支持UEFI驱动，查询方法：按住Win+R，输入msinfo32，必须要像这样
-![UEFI](https://images.sciencekill.top/images/02.png)
+![UEFI](https://images.sciencekill.top/uefi-info.png)
 才可以继续安装
 
 ### 2、开始部署
@@ -46,7 +46,7 @@ tag:
 |-splash.bmp
 
 ```
-![就像这样~](https://images.sciencekill.top/images/01.png)
+![就像这样~](https://images.sciencekill.top/hackbgrt-dir.png)
 
 如果你的目录基本一致，就可以继续了
 

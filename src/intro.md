@@ -6,13 +6,13 @@ cover: /assets/images/cover3.jpg
 
 ## Sciencekill:
 
-Sciencekill(程添宇)，目前是初中生，就读于武汉市青山区任家路中学703。
+Sciencekill(程添宇)，目前是初中生，就读于武汉市青山区任家路中学803。
 
 ## 本博客
 
 这应该是第二代博客，原本用Next.js部署的，不好看不好用，就换掉了~
 
-本博客使用Vuepress生成，数据储存于Github，托管于Netlify
+本博客使用Vuepress生成，数据储存于Github，托管于Vercel
 
 ## 鸣谢
 ### [Node.js](http://nodejs.org)
@@ -38,9 +38,4 @@ Vuepress基于Vue.js
 ![](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 
 本博客资源储存在Github
-
-### [Netlify](https://www.netlify.com)
-![](https://www.netlify.com/img/global/badges/netlify-dark.svg)
-
-本博客托管在Netlify
 
