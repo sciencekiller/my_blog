@@ -82,12 +82,8 @@ export default hopeTheme({
     blog: true,
     comment: {
       // You should generate and use your own comment service
-      provider: "Giscus",
-      comment: true,
-      repo: "sciencekiller/my_blog",
-      repoId: "R_kgDOI3dgAw",
-      category: "Announcements",
-      categoryId: "DIC_kwDOI3dgA84CVDY4",
+      provider: "Waline",
+      serverURL: "waline.sciencekill.top",
     },
 
     // all features are enabled for demo, only preserve features you need here
